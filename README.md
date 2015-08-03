@@ -25,10 +25,10 @@ application/json
 }
 
 3. Find available rides offered others
-http://localhost:8080/ridePool/rest/api/findRide 
+http://localhost:8080/ridePool/rest/api/findRide
 application/json
 {
   "from": "SAP Labs",
-	"to": "Vijayanagar",
+  "to": "Vijayanagar",
   "via": "OuterRingRoad" 
 }
