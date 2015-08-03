@@ -2,6 +2,7 @@
 Restful webservice for sharing ride
 
 End poings:
+
 1. Registration for using application
 http://localhost:8080/ridePool/api/register
 application/json
