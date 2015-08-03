@@ -14,9 +14,9 @@ application/json
   "password": "12345"
 }
 
-2. Offer ride : If you are travelling in your vehicle, you can offer this ride to others
-application/json
+2. Offer ride : If you are travelling in your vehicle, you can offer this ride to other
 http://localhost:8080/ridePool/rest/api/offerRide
+application/json
 {
   "from": "SAP Labs",
   "to": "JP Nagar",
@@ -25,7 +25,7 @@ http://localhost:8080/ridePool/rest/api/offerRide
 }
 
 3. Find available rides offered others
-http://localhost:8080/ridePool/rest/api/findRide
+http://localhost:8080/ridePool/rest/api/findRide 
 application/json
 {
   "from": "SAP Labs",
